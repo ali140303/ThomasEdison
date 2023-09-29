@@ -1,0 +1,11 @@
+#gallery2{
+    display: grid;
+    justify-items: center;
+    width:100%;
+    height:auto;
+}
+
+#gallery2 img{
+    width: 40%;
+    height: auto;
+}
